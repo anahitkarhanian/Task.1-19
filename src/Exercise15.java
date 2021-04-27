@@ -5,7 +5,7 @@ public class Exercise15 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int number = scanner.nextInt();
-        boolean isOdd = number % 2 == 0;
+        boolean isOdd = number % 2 == 1;
         System.out.println(isOdd);
     }
 }

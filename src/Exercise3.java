@@ -5,8 +5,8 @@ public class Exercise3 {
     public static void main(String[] args) {
         int sumOdd;
         int sumEven;
-        sumOdd = 0 + 2 + 4 + 6;
-        sumEven = 1 + 3 + 5 + 7;
+        sumEven = 0 + 2 + 4 + 6;
+        sumOdd = 1 + 3 + 5 + 7;
         System.out.println(sumOdd);
         System.out.println(sumEven);
     }
